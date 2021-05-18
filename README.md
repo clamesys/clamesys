@@ -25,6 +25,6 @@
 <br/>
 
 ---
-<h5 align="center"> Github Statistics 📈 </h5>
+<h1 align="center"> Github Statistics 📈 </h1>
 
 
