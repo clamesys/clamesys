@@ -42,3 +42,5 @@
 <br>
 <br>
 <br>
+<h3 align="center">Achievements</h3>
+<p align="center"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=clamesys&column=7&theme=onedark" alt="clamesys" /></a> </p>
