@@ -1,9 +1,10 @@
 Myself Clamesys
 
-learning Linux privilege escalation.
+learning Python.
+
 ALsO
 
-learning Python.
+learning Linux privilege escalation.
 
 Please Check My Youtube Out :----> https://youtu.be/dQw4w9WgXcQ
 
