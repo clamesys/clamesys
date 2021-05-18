@@ -2,11 +2,11 @@
 
 <img align="right" alt="GIF" height="200px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a student, Noob and a Retard (they all say). :) <img width="30px" alt="GIF" src="https://media.tenor.com/images/9dedc422b8dd9232a71f4e8ef1f69cc0/tenor.gif" />
+## I'm a student, Noob and a Retard (they all say).  <img width="30px" alt="GIF" src="https://media.tenor.com/images/9dedc422b8dd9232a71f4e8ef1f69cc0/tenor.gif" />
 
 - 📚 Currently Studying.
 - 📙 Learning Python and Linux.
-- 💪🏼 Never Do drugs except (🌿🚬Marijuana, <img width="15px" src="https://image.pngaaa.com/68/952068-small.png" />Cocaine, Ecstasy, etc.etc....
+- 💪🏼 Never Do drugs except (🌿🚬Marijuana, Cocaine, 💉Ecstasy, etc.etc....
 - ✌ Inspiration: Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 ---
