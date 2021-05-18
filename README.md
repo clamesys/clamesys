@@ -6,7 +6,7 @@
 
 - 📚 Currently Studying.
 - 📙 Learning Python and Linux.
-- 💪🏼 Never Do drugs except (🌿🚬Marijuana, Cocaine, 💉Ecstasy, etc.etc....
+- 💪🏼 Never Do drugs except (🌿🚬Marijuana, 💉Ecstasy, Cocaine, etc.etc....
 - ✌ Inspiration: Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 ---
