@@ -7,7 +7,7 @@
 - 📚 Currently Studying.
 - 📙 Learning Python and Linux.
 - 💪🏼 Never Do drugs except (🌿🚬Marijuana, 💉Ecstasy, Cocaine, etc.etc....
-- 💻 I dont comment, If it is hard to write, it should be hard to read too, be like Me.
+- 💻 I dont comment, If it is hard to write, It should be hard to read too, Be like Me.
 
 ---
 
