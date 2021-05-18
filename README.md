@@ -10,7 +10,7 @@
 - 💻 I dont comment, If it is hard to write, It should be hard to read too, Be like Me.
 ---
 
-Please Check My Youtube Out :----> https://youtu.be/dQw4w9WgXcQ <img width="50px" alt="GIF" src="hhttps://media.tenor.com/images/908b5f7c805ebf28db0843051b9c7f42/tenor.gif" />
+Please Check My Youtube Out :----> https://youtu.be/dQw4w9WgXcQ <img width="50px" alt="GIF" src="https://media.tenor.com/images/908b5f7c805ebf28db0843051b9c7f42/tenor.gif" />
 
 ---
 
