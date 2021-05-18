@@ -7,7 +7,7 @@
 - 📚 Currently Studying.
 - 📙 Learning Python and Linux.
 - 💪🏼 Never Do drugs except (🌿🚬Marijuana, 💉Ecstasy, Cocaine, etc.etc....
-- ✌ Inspiration: Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+- 💻 I dont comment, If it is hard to write, it should be hard to read too, be like Me.
 
 ---
 
