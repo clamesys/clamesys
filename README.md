@@ -1,6 +1,5 @@
 Myself Clamesys
 
-Currently Hacked 2 jupiter notebooks, and 5 Windows PC and also 1 Ubuntu 16.04. 
 learning Linux privilege escalation.
 ALsO
 
