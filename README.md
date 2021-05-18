@@ -25,6 +25,25 @@
 <br/>
 
 ---
-<h1 align="center"> Github Statistics 📈 </h1>
+<h1 align="center"> My Github Statistics 📊 (IDC anyways) </h1>
+
+<div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsmebirdie&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=33.5" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmebirdie&theme=react&line_height=10&hide=css"/>
+    </a>
+</div
+  
+<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 align="center">Achievements</h3>
+<p align="center"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=itsmebirdie&column=7&theme=onedark" alt="itsmebirdie" /></a> </p>
+
 
 
