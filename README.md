@@ -4,13 +4,11 @@
 
 ## I'm a student and a professional dumbass
 
-- 👨‍💻 I'm now taking a break from coding and start focusing on studies.
-- 📚 I’m currently learning NodeJS and ReactJS.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 📚 Currently Studying.
+- 📙 Learning Python and Linux.
+- 💪🏼 Future Goals: Never Do drugs except (ganja, cocaine, ecstasy, etc.etc....
 - ✌ Inspiration: Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 ---
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 Please Check My Youtube Out :----> https://youtu.be/dQw4w9WgXcQ
