@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="200px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a student and a professional dumbass
+## I'm a student, Noob and a Retard (they all say). :) <img width="30px" alt="GIF" src="https://media.tenor.com/images/9dedc422b8dd9232a71f4e8ef1f69cc0/tenor.gif" />
 
 - 📚 Currently Studying.
 - 📙 Learning Python and Linux.
