@@ -25,3 +25,6 @@
 <br/>
 
 ---
+<h2 align="center"> Github Statistics 📈 </h2>
+
+---
