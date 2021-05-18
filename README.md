@@ -1,6 +1,6 @@
 # Myself Clamesys, <img width="50px" alt="GIF" src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" />
 
-<img align="right" alt="GIF" height="200px" src="https://media.tenor.com/images/de2a9b7bb8147c9c93a0d4e474550fbe/tenor.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.tenor.com/images/1377ba74f2b44ff31a2c57c90ac49db7/tenor.gif" />
 
 ## I'm a student, Noob and a Retard (they all say).  <img width="30px" alt="GIF" src="https://media.tenor.com/images/9dedc422b8dd9232a71f4e8ef1f69cc0/tenor.gif" />
 
