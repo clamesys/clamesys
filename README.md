@@ -1,8 +1,8 @@
 # Myself Clamesys, <img width="50px" src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a student, Noob and a # <Retard./>
+## I'm a student, Noob and a Retard (thats what they say). <img width="200px" src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" />
 
 - 👨‍💻 I'm now taking a break from coding and start focusing on studies.
 - 📚 I’m currently learning NodeJS and ReactJS.
