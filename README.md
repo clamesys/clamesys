@@ -5,7 +5,7 @@
 ## I'm a student, Noob and a Retard (they all say).  <img width="30px" alt="GIF" src="https://media.tenor.com/images/9dedc422b8dd9232a71f4e8ef1f69cc0/tenor.gif" />
 
 - 📚 Currently Studying.
-- 📙 Learning Python and Linux.
+- 📙 Learning Python, SQL, CSS, HTML and Linux.
 - 💪🏼 Never Do drugs except (🌿🚬Marijuana, 💉Ecstasy, Cocaine, etc.etc....)
 - 💻 I dont comment, If it is hard to write, It should be hard to read too, Be like Me.
 ---
