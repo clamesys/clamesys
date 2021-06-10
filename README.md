@@ -1,8 +1,8 @@
 # Myself Clamesys, <img width="50px" alt="GIF" src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" />
 
-<img align="right" alt="GIF" height="200px" src="https://media.tenor.com/images/b0979a86282277a6a0dadd657700389f/tenor.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.tenor.com/images/97af7d2863bf926e2de6e202bd58d03e/tenor.gif" />
 
-## I'm a student, Noob and a Retard (they all say).  <img width="30px" alt="GIF" src="https://media.tenor.com/images/97af7d2863bf926e2de6e202bd58d03e/tenor.gif" />
+## I'm a student, Noob and a Retard (they all say).  <img width="30px" alt="GIF" src="https://media.tenor.com/images/b0979a86282277a6a0dadd657700389f/tenor.gif" />
 
 - 📚 Currently Studying.
 - 📙 Learning Python, SQL, CSS, HTML and Linux.
