@@ -1,4 +1,4 @@
-# Myself Clamesys, <img width="50px" alt="GIF" src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" />
+# Myself Clamesys, <img width="5px" alt="GIF" src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" />
 
 <img align="right" alt="GIF" height="200px" src="https://media.tenor.com/images/97af7d2863bf926e2de6e202bd58d03e/tenor.gif" />
 
