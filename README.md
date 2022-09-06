@@ -1,11 +1,11 @@
 # Myself Clamesys,
 <img align="right" alt="GIF" height="200px" src="https://media.tenor.com/images/97af7d2863bf926e2de6e202bd58d03e/tenor.gif" />
 
-## I'm a student, Noob and a Retard (they all say).
-
+## I'm a student.
+- Arch User.
 - 📚 Currently Studying.
-- 📙 Learning Python, SQL, CSS, HTML and Linux.
-- 💪🏼 Never Do drugs except (🌿🚬Marijuana)
+- 📙 Learning Python, SQL, and Linux.
+- 💪🏼 Never Do drugs (except Marijuana🌿🚬),
 - 💻 I dont comment, If it is hard to write, It should be hard to read too, Be like Me.
 ---
 <h3 align="left">Please Check My Youtube Out :----> https://youtu.be/dQw4w9WgXcQ ⏸️▶️⏯️</h3><img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=clamesys&repo=clamesys&countColorcountColor&countColor=%23FF7F50"/>
