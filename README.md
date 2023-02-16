@@ -1,14 +1,13 @@
 # Myself Clamesys,
 <img align="right" alt="GIF" height="200px" src="https://media.tenor.com/images/97af7d2863bf926e2de6e202bd58d03e/tenor.gif" />
 
-## I'm a student.
-- Arch User.
-- 📚 Currently Studying.
-- 📙 Learning Python, SQL, and Linux.
+### I'm a student.
+- 📚 Currently Studying B.Tech CSE (2nd Sem).
+- 📙 Learning C, Python, and Linux.
 - 💪🏼 Never Do drugs (except Marijuana🌿🚬),
 - 💻 I dont comment, If it is hard to write, It should be hard to read too, Be like Me.
 ---
-<h3 align="left">Please Check My Youtube Out :----> https://youtu.be/dQw4w9WgXcQ ⏸️▶️⏯️</h3><img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=clamesys&repo=clamesys&countColorcountColor&countColor=%23FF7F50"/>
+<h3 align="left">Please Check My Youtube Out :----> https://youtu.be/dQw4w9WgXcQ ⏸️▶️⏯️</h3>
 
 ---
 ### Languages and Tools 🛠 
@@ -27,19 +26,5 @@
 <br/>
 
 ---
-<h1 align="center"> My Github Statistics 📊 (IDC anyways) </h1>
-
-<div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=clamesys&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=33.5" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clamesys&theme=react&line_height=10&hide=css"/>
-    </a>
-</div
-  
-<br/>
-
----
-<h3 align="center">Achievements</h3>
-<p align="center"> <a href="https://maanasnair.in/trophies"><img src="https://github-profile-trophy.vercel.app/?username=clamesys&column=7&theme=onedark" alt="clamesys" /></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
