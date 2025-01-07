@@ -1,7 +1,7 @@
 # Myself Clamesys
 
 ### I'm a student.
-📚 Currently Studying B.Tech CSE (3rd Sem).<br>📙 Learning C, C++, Python and Linux.<br>💪🏼 Never Do drugs except Marijuana🌿🚬(I code in the 4th dimension ∞)<br>💻 I dont comment, If it is hard to write, It should be hard to read too, Be like Me.<br>💀 When I write a Code, only God and I understood what was going on. After a sleep, only God knows what's going on.
+📚 Currently Studying B.Tech CSE (3rd Sem).<br>📙 Learning C, Python and Linux.<br>💪🏼 Never Do drugs except Marijuana🌿🚬(I code in the 4th dimension ∞)<br>💻 I dont comment, If it is hard to write, It should be hard to read too, Be like Me.<br>💀 When I write a Code, only God and I understood what was going on. After a sleep, only God knows what's going on.
 * * *
 <img align="right" src="https://visitcount.itsvg.in/api?id=clamesys&icon=2&color=9"/>
 
